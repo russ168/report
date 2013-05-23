@@ -1,0 +1,7 @@
+2013-05-06 11:39:52 =ERROR REPORT====
+GET / [report] 404 1ms2013-05-06 11:39:52 =ERROR REPORT====
+GET / [report] 404 0ms2013-05-06 11:40:07 =ERROR REPORT====
+GET /index.html [report] 404 3ms2013-05-06 11:40:07 =ERROR REPORT====
+GET /index.html [report] 404 0ms2013-05-06 15:35:06 =ERROR REPORT====
+GET /docs/todos.html [report] 404 1ms2013-05-06 15:35:06 =ERROR REPORT====
+GET /docs/todos.html [report] 404 1ms

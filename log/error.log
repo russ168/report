@@ -1,0 +1,6 @@
+2013-05-06 11:39:52.426 [error] <0.133.0> GET / [report] 404 1ms
+2013-05-06 11:39:52.843 [error] <0.133.0> GET / [report] 404 0ms
+2013-05-06 11:40:07.431 [error] <0.133.0> GET /index.html [report] 404 3ms
+2013-05-06 11:40:07.750 [error] <0.133.0> GET /index.html [report] 404 0ms
+2013-05-06 15:35:06.348 [error] <0.140.0> GET /docs/todos.html [report] 404 1ms
+2013-05-06 15:35:06.692 [error] <0.140.0> GET /docs/todos.html [report] 404 1ms
